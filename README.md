@@ -1,1 +1,1 @@
-# odin-weather-app
+# webpack-starter
