@@ -1,6 +1,12 @@
 # ⚡ Webpack Starter Template
 
-```console
-npx degit jdy7149/odin-weather-app my-project
-cd my-project
-```
+### Clone this template and run
+
+
+  ```bash
+  npm init -y
+  ```
+
+  ```bash
+  npm install
+  ```
